@@ -1,0 +1,1 @@
+# RoastMyResume AI\n\nBrutally Honest Tech Resume Fixer\n\n## MVP Vibe Coding\nThis is a ready-to-deploy Micro-SaaS built with React, Vite, and Google Gemini API.\n\nDeploy to Vercel and attach Stripe to start earning MRR.
